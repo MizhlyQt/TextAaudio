@@ -24,7 +24,7 @@ page_style = """
 }
 /* Color de todos los textos */
 [data-testid="stMarkdownContainer"] {
-    color: #ff0000;
+    color: #b4b4b4;
 </style>
 """
 
