@@ -9,7 +9,7 @@ import base64
 
 st.title("Conversión de Texto a Audio")
 image = Image.open('Elcuervo.jpg')
-st.image(image, width=350)
+st.image(image, width=500)
 with st.sidebar:
     st.subheader("Esrcibe y/o selecciona texto para ser escuchado.")
 
@@ -29,7 +29,7 @@ st.write(
 )
 
 st.write(" ")
-st.write("Edgar Allan Poe")
+st.write("**Edgar Allan Poe**")
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
