@@ -20,16 +20,16 @@ except:
     pass
 
 st.subheader("El cuervo")
-st.write('Una vez, en la lúgubre media noche, mientras meditaba débil y fatigado sobre el ralo y precioso volumen de una olvidada doctrina y'
-    'casi dormido, se inclinaba lentamente mi cabeza, escuché de pronto un crujido como si alguien llamase suavemente a la puerta de mi alcoba.' 
-    'Debe ser algún visitante», pensé. ¡Ah!, recuerdo con claridad que era una noche glacial del mes de diciembre y que cada tizón proyectaba '
-    'en el suelo el reflejo de su agonía. Ardientemente deseé que amaneciera; y en vano me esforcé en buscar en los libros un lenitivo de mi tristeza,'
+st.write(
+    'Una vez, en la lúgubre media noche, mientras meditaba débil y fatigado sobre el ralo y precioso volumen de una olvidada doctrina y '
+    'casi dormido, se inclinaba lentamente mi cabeza, escuché de pronto un crujido como si alguien llamase suavemente a la puerta de mi alcoba. '
+    'Debe ser algún visitante, pensé. ¡Ah!, recuerdo con claridad que era una noche glacial del mes de diciembre y que cada tizón proyectaba '
+    'en el suelo el reflejo de su agonía. Ardentemente deseé que amaneciera; y en vano me esforcé en buscar en los libros un lenitivo de mi tristeza, '
     'tristeza por mi perdida Leonora, por la preciosa y radiante joven a quien los ángeles llaman Leonora, y a la que aquí nadie volverá a llamar.'
-         '  '
-         '   '
-         ' Edgar Allan Poe'
-        
-        )
+)
+
+st.write(" ")
+st.write("Edgar Allan Poe")
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
