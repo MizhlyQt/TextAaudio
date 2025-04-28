@@ -13,6 +13,21 @@ st.image(image, width=500)
 with st.sidebar:
     st.subheader("Esrcibe y/o selecciona texto para ser escuchado.")
 
+page_style = """
+<style>
+[data-testid="stAppViewContainer"] {
+    background-color: #0E1117; /* Fondo principal */
+}
+
+[data-testid="stSidebar"] {
+    background-color: #1C1F26; /* Fondo del sidebar */
+}
+</style>
+"""
+
+st.markdown(page_style, unsafe_allow_html=True)
+
+
 
 try:
     os.mkdir("temp")
