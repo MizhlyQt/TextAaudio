@@ -19,11 +19,14 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
-st.write('¿Qué se le puede escribir a un hombre así, que evidentemente ha perdido el rumbo'
-         'un hombre del que se puede sentir pena, pero al que no se puede ayudar? ' 
+st.subheader("El cuervo")
+st.write('Una vez, en la lúgubre media noche, mientras meditaba débil y fatigado sobre el ralo y precioso volumen de una olvidada doctrina y'
+'casi dormido, se inclinaba lentamente mi cabeza, escuché de pronto un crujido como si alguien llamase suavemente a la puerta de mi alcoba.' 
+'Debe ser algún visitante», pensé. ¡Ah!, recuerdo con claridad que era una noche glacial del mes de diciembre y que cada tizón proyectaba '
+'en el suelo el reflejo de su agonía. Ardientemente deseé que amaneciera; y en vano me esforcé en buscar en los libros un lenitivo de mi tristeza,'
+'tristeza por mi perdida Leonora, por la preciosa y radiante joven a quien los ángeles llaman Leonora, y a la que aquí nadie volverá a llamar.'
          '  '
-         ' Franz Kafka.-Metamorfosis'
+         ' Edgar Allan Poe'
         
         )
            
