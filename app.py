@@ -16,11 +16,11 @@ with st.sidebar:
 page_style = """
 <style>
 [data-testid="stAppViewContainer"] {
-    background-color: #141c4f; /* Fondo principal */
+    background-color: #022815; /* Fondo principal */
 }
 
 [data-testid="stSidebar"] {
-    background-color: #1C1F26; /* Fondo del sidebar */
+    background-color: #05512b; /* Fondo del sidebar */
 }
 </style>
 """
