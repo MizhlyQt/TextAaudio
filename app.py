@@ -26,6 +26,7 @@ st.write('Una vez, en la lúgubre media noche, mientras meditaba débil y fatiga
 'en el suelo el reflejo de su agonía. Ardientemente deseé que amaneciera; y en vano me esforcé en buscar en los libros un lenitivo de mi tristeza,'
 'tristeza por mi perdida Leonora, por la preciosa y radiante joven a quien los ángeles llaman Leonora, y a la que aquí nadie volverá a llamar.'
          '  '
+         
          ' Edgar Allan Poe'
         
         )
