@@ -16,7 +16,7 @@ with st.sidebar:
 page_style = """
 <style>
 [data-testid="stAppViewContainer"] {
-    background-color: #0E1117; /* Fondo principal */
+    background-color: #141c4f; /* Fondo principal */
 }
 
 [data-testid="stSidebar"] {
